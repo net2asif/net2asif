@@ -1,7 +1,7 @@
 # 💫 About Me:
-Analytical and innovative Data Analyst with 5+ years of expertise in Python, SQL, and Tableau, passionate about turning complex datasets into meaningful insights. Proficient in exploratory data analysis (EDA) and creating intuitive visualizations to inform business strategies.
+Analytical and innovative Data Analyst with 5+ years of expertise in Power BI, Python, SQL, and Tableau, passionate about turning complex datasets into meaningful insights. Proficient in exploratory data analysis (EDA) and creating intuitive visualizations to inform business strategies.
 
-I hold a Bachelor's degree in Computer Science from the University of Engineering and Technology Peshawar and have completed both IBM Data Science and Google Data Analytics Professional Certificates. My experience spans across various industries, from e-commerce analytics to healthcare prediction models.
+I hold a Bachelor's degree in Computer Science from the University of Engineering and Technology, Peshawar, and have completed both IBM Data Science and Google Data Analytics Professional Certificates. My experience spans across various industries, from e-commerce analytics to healthcare prediction models.
 
 Dedicated to delivering impactful, data-driven solutions that enhance efficiency and drive measurable outcomes. I specialize in transforming raw data into actionable insights that help businesses make informed decisions.
 
